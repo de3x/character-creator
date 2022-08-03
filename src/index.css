@@ -12,7 +12,7 @@ body {
 *,
 *:before,
 *:after {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   box-sizing: border-box;
 }
 
@@ -29,4 +29,8 @@ body {
   margin: -1px;
   padding: 0;
   border: 0;
+}
+
+footer a {
+  color: white;
 }
